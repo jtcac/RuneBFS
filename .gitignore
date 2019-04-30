@@ -1,3 +1,6 @@
+# Build Directory
+docs/
+
 /web.config
 
 .idea/*
