@@ -16,7 +16,8 @@ var maxX = 0;
 var minY = 0;
 var maxY = 0;
 var scale = 0.2;
-var maxevo = 99999;
+// maxevo determines rune range (20000 = 2nd class, 30000 = trans, 40000 = 3rd class, 99999 = 3rd class++)
+var maxevo = 30000;
 var pathAlgorithm = "nogold";
 var inited = false;
 var runeSize = 60.0;
