@@ -2517,7 +2517,7 @@
   },
   {
     "Id": 61011,
-    "RuneName": "手推车增幅Ⅰ",
+    "RuneName": "Cart Increase I",
     "Runetip": 6002,
     "SkillTipParm": [
       5
@@ -2525,7 +2525,7 @@
   },
   {
     "Id": 61012,
-    "RuneName": "手推车增幅Ⅱ",
+    "RuneName": "Cart Increase II",
     "Runetip": 6002,
     "SkillTipParm": [
       5
@@ -2533,7 +2533,7 @@
   },
   {
     "Id": 61013,
-    "RuneName": "手推车增幅Ⅲ",
+    "RuneName": "Cart Increase III",
     "Runetip": 6002,
     "SkillTipParm": [
       10
@@ -2541,7 +2541,7 @@
   },
   {
     "Id": 61014,
-    "RuneName": "手推车增幅Ⅳ",
+    "RuneName": "Cart Increase IV",
     "Runetip": 6002,
     "SkillTipParm": [
       5
@@ -2549,7 +2549,7 @@
   },
   {
     "Id": 61015,
-    "RuneName": "手推车增幅Ⅴ",
+    "RuneName": "Cart Increase V",
     "Runetip": 6002,
     "SkillTipParm": [
       5
@@ -2605,7 +2605,7 @@
   },
   {
     "Id": 62007,
-    "RuneName": "斧头精炼度Ⅰ",
+    "RuneName": "Axe Proficiency I",
     "Runetip": 6008,
     "SkillTipParm": [
       20
@@ -2613,7 +2613,7 @@
   },
   {
     "Id": 62008,
-    "RuneName": "手推车撞击Ⅰ",
+    "RuneName": "Cart Revolution I",
     "Runetip": 6005,
     "SkillTipParm": [
       1,
@@ -2622,7 +2622,7 @@
   },
   {
     "Id": 62009,
-    "RuneName": "手推车撞击Ⅱ",
+    "RuneName": "Cart Revolution II",
     "Runetip": 6005,
     "SkillTipParm": [
       0.5,
@@ -2631,7 +2631,7 @@
   },
   {
     "Id": 62013,
-    "RuneName": "灵巧转换Ⅰ",
+    "RuneName": "Dex Switching I",
     "Runetip": 6006,
     "SkillTipParm": [
       1,
@@ -2640,7 +2640,7 @@
   },
   {
     "Id": 62014,
-    "RuneName": "灵巧转换Ⅱ",
+    "RuneName": "Dex Switching II",
     "Runetip": 6006,
     "SkillTipParm": [
       1,
@@ -2658,7 +2658,7 @@
   },
   {
     "Id": 62016,
-    "RuneName": "灵巧转换Ⅳ",
+    "RuneName": "Dex Switching IV",
     "Runetip": 6006,
     "SkillTipParm": [
       1,
@@ -2667,7 +2667,7 @@
   },
   {
     "Id": 62017,
-    "RuneName": "灵巧转换Ⅴ",
+    "RuneName": "Dex Switching V",
     "Runetip": 6006,
     "SkillTipParm": [
       1,
@@ -2676,7 +2676,7 @@
   },
   {
     "Id": 62018,
-    "RuneName": "斧头精炼度Ⅱ",
+    "RuneName": "Axe Proficiency II",
     "Runetip": 6008,
     "SkillTipParm": [
       20
@@ -2684,7 +2684,7 @@
   },
   {
     "Id": 62019,
-    "RuneName": "斧头精炼度Ⅲ",
+    "RuneName": "Axe Proficiency III",
     "Runetip": 6008,
     "SkillTipParm": [
       10
@@ -2692,7 +2692,7 @@
   },
   {
     "Id": 62020,
-    "RuneName": "手推车撞击Ⅵ",
+    "RuneName": "Cart Revolution VI",
     "Runetip": 6007,
     "SkillTipParm": [
       10,
@@ -2701,7 +2701,7 @@
   },
   {
     "Id": 62021,
-    "RuneName": "手推车撞击Ⅶ",
+    "RuneName": "Cart Revolution VII",
     "Runetip": 6007,
     "SkillTipParm": [
       5,
@@ -2710,7 +2710,7 @@
   },
   {
     "Id": 62024,
-    "RuneName": "斧头精炼度Ⅳ",
+    "RuneName": "Axe Proficiency IV",
     "Runetip": 6008,
     "SkillTipParm": [
       20
@@ -2718,7 +2718,7 @@
   },
   {
     "Id": 62025,
-    "RuneName": "斧头精炼度Ⅴ",
+    "RuneName": "Axe Proficiency V",
     "Runetip": 6008,
     "SkillTipParm": [
       10
@@ -2726,7 +2726,7 @@
   },
   {
     "Id": 62026,
-    "RuneName": "幸运转换Ⅰ",
+    "RuneName": "Luck Switch I",
     "Runetip": 6009,
     "SkillTipParm": [
       1,
@@ -2735,7 +2735,7 @@
   },
   {
     "Id": 62027,
-    "RuneName": "幸运转换Ⅱ",
+    "RuneName": "Luck Switch II",
     "Runetip": 6009,
     "SkillTipParm": [
       1,
@@ -2744,7 +2744,7 @@
   },
   {
     "Id": 62028,
-    "RuneName": "幸运转换Ⅲ",
+    "RuneName": "Luck Switch III",
     "Runetip": 6009,
     "SkillTipParm": [
       1,
@@ -2753,7 +2753,7 @@
   },
   {
     "Id": 62029,
-    "RuneName": "幸运转换Ⅳ",
+    "RuneName": "Luck Switch IV",
     "Runetip": 6009,
     "SkillTipParm": [
       1,
@@ -2762,7 +2762,7 @@
   },
   {
     "Id": 62030,
-    "RuneName": "幸运转换Ⅴ",
+    "RuneName": "Luck Switch V",
     "Runetip": 6009,
     "SkillTipParm": [
       1,
@@ -2771,7 +2771,7 @@
   },
   {
     "Id": 62040,
-    "RuneName": "斧头精炼度-强化",
+    "RuneName": "Axe Proficiency - Empower",
     "Runetip": 6010,
     "SkillTipParm": [
       10
@@ -2788,7 +2788,7 @@
   },
   {
     "Id": 62060,
-    "RuneName": "旋风斧",
+    "RuneName": "Whirl Axe",
     "Runetip": 6012,
     "SkillTipParm": [
       40,
@@ -2798,7 +2798,7 @@
   },
   {
     "Id": 62061,
-    "RuneName": "旋风斧",
+    "RuneName": "Whirl Axe",
     "Runetip": 6012,
     "SkillTipParm": [
       40,
@@ -2808,7 +2808,7 @@
   },
   {
     "Id": 62062,
-    "RuneName": "旋风斧",
+    "RuneName": "Whirl Axe",
     "Runetip": 6012,
     "SkillTipParm": [
       40,
@@ -2818,7 +2818,7 @@
   },
   {
     "Id": 62063,
-    "RuneName": "旋风斧",
+    "RuneName": "Whirl Axe",
     "Runetip": 6012,
     "SkillTipParm": [
       40,
@@ -2828,7 +2828,7 @@
   },
   {
     "Id": 62064,
-    "RuneName": "旋风斧",
+    "RuneName": "Whirl Axe",
     "Runetip": 6012,
     "SkillTipParm": [
       40,
@@ -2838,7 +2838,7 @@
   },
   {
     "Id": 62070,
-    "RuneName": "旋风斧-强化",
+    "RuneName": "Whirl Axe - Empower",
     "Runetip": 6013,
     "SkillTipParm": [
       5
@@ -2846,7 +2846,7 @@
   },
   {
     "Id": 62080,
-    "RuneName": "力量膨胀",
+    "RuneName": "Strength Expanding",
     "Runetip": 6014,
     "SkillTipParm": [
       20,
@@ -2882,7 +2882,7 @@
   },
   {
     "Id": 62100,
-    "RuneName": "分裂斧-强化",
+    "RuneName": "Split Axe - Empower",
     "Runetip": 6016,
     "SkillTipParm": [
       3

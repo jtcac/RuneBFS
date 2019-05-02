@@ -1130,7 +1130,7 @@
     },
     {
       "Id": 910005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -1810,7 +1810,7 @@
     },
     {
       "Id": 650009,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -2810,7 +2810,7 @@
     },
     {
       "Id": 890009,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -4154,7 +4154,7 @@
     },
     {
       "Id": 710004,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -8370,7 +8370,7 @@
     },
     {
       "Id": 720009,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -8482,7 +8482,7 @@
     },
     {
       "Id": 700005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -8754,7 +8754,7 @@
     },
     {
       "Id": 640005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -15740,7 +15740,7 @@
     },
     {
       "Id": 610003,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -16132,7 +16132,7 @@
     },
     {
       "Id": 620005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -18668,7 +18668,7 @@
     },
     {
       "Id": 640005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -43810,7 +43810,7 @@
     },
     {
       "Id": 710004,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -45482,7 +45482,7 @@
     },
     {
       "Id": 610003,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -45738,7 +45738,7 @@
     },
     {
       "Id": 690016,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -45874,7 +45874,7 @@
     },
     {
       "Id": 620005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -48138,7 +48138,7 @@
     },
     {
       "Id": 700005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -48410,7 +48410,7 @@
     },
     {
       "Id": 640005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -48514,7 +48514,7 @@
     },
     {
       "Id": 10370000,
-      "Name": "人形种族加伤",
+      "Name": "Dmg to Demi-Human",
       "Key": "DemiHumanDamPer",
       "Value": 0.025,
       "Type": 5,
@@ -48666,7 +48666,7 @@
     },
     {
       "Id": 600003,
-      "Name": "人形种族加伤",
+      "Name": "Dmg to Demi-Human",
       "Key": "DemiHumanDamPer",
       "Value": 0.025,
       "Type": 5,
@@ -49780,7 +49780,7 @@
     },
     {
       "Id": 460013,
-      "Name": "人形种族加伤",
+      "Name": "Dmg to Demi-Human",
       "Key": "DemiHumanDamPer",
       "Value": 0.025,
       "Type": 5,
@@ -50556,7 +50556,7 @@
     },
     {
       "Id": 660004,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -51380,7 +51380,7 @@
     },
     {
       "Id": 650009,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -51524,7 +51524,7 @@
     },
     {
       "Id": 450004,
-      "Name": "人形种族加伤",
+      "Name": "Dmg to Demi-Human",
       "Key": "DemiHumanDamPer",
       "Value": 0.025,
       "Type": 5,
@@ -54028,7 +54028,7 @@
     },
     {
       "Id": 480016,
-      "Name": "人形种族加伤",
+      "Name": "Dmg to Demi-Human",
       "Key": "DemiHumanDamPer",
       "Value": 0.025,
       "Type": 5,
@@ -55396,7 +55396,7 @@
     },
     {
       "Id": 610003,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -55756,7 +55756,7 @@
     },
     {
       "Id": 470004,
-      "Name": "人形种族加伤",
+      "Name": "Dmg to Demi-Human",
       "Key": "DemiHumanDamPer",
       "Value": 0.025,
       "Type": 5,
@@ -55788,7 +55788,7 @@
     },
     {
       "Id": 620005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -58324,7 +58324,7 @@
     },
     {
       "Id": 640005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -90356,7 +90356,7 @@
     },
     {
       "Id": 910005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -92036,7 +92036,7 @@
     },
     {
       "Id": 890009,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -94348,7 +94348,7 @@
     },
     {
       "Id": 870005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -99526,7 +99526,7 @@
     },
     {
       "Id": 750009,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -99974,7 +99974,7 @@
     },
     {
       "Id": 830004,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -105910,7 +105910,7 @@
     },
     {
       "Id": 780005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -106982,7 +106982,7 @@
     },
     {
       "Id": 800009,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -108510,7 +108510,7 @@
     },
     {
       "Id": 840004,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -109088,7 +109088,7 @@
     },
     {
       "Id": 230000,
-      "Name": "手推车撞击Ⅰ",
+      "Name": "Cart Revolution I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109096,7 +109096,7 @@
     },
     {
       "Id": 460000,
-      "Name": "装备攻速",
+      "Name": "Attack Spd",
       "Key": "EquipASPD",
       "Value": 0.03,
       "Type": 1,
@@ -109152,7 +109152,7 @@
     },
     {
       "Id": 230002,
-      "Name": "手推车撞击Ⅱ",
+      "Name": "Cart Revolution II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109208,7 +109208,7 @@
     },
     {
       "Id": 460008,
-      "Name": "装备攻速",
+      "Name": "Attack Spd",
       "Key": "EquipASPD",
       "Value": 0.03,
       "Type": 1,
@@ -109248,7 +109248,7 @@
     },
     {
       "Id": 230006,
-      "Name": "手推车撞击Ⅲ",
+      "Name": "Cart Revolution III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109264,7 +109264,7 @@
     },
     {
       "Id": 460013,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -109288,7 +109288,7 @@
     },
     {
       "Id": 460015,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -109376,7 +109376,7 @@
     },
     {
       "Id": 230016,
-      "Name": "手推车撞击Ⅳ",
+      "Name": "Cart Revolution IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109528,7 +109528,7 @@
     },
     {
       "Id": 500000,
-      "Name": "手推车增幅Ⅴ",
+      "Name": "Cart Increase V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109624,7 +109624,7 @@
     },
     {
       "Id": 250004,
-      "Name": "分裂斧-强化",
+      "Name": "Split Axe - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109688,7 +109688,7 @@
     },
     {
       "Id": 290000,
-      "Name": "分裂斧-强化",
+      "Name": "Split Axe - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109696,7 +109696,7 @@
     },
     {
       "Id": 580000,
-      "Name": "旋风斧",
+      "Name": "Whirl Axe",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109768,7 +109768,7 @@
     },
     {
       "Id": 580010,
-      "Name": "旋风斧-强化",
+      "Name": "Whirl Axe - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109832,7 +109832,7 @@
     },
     {
       "Id": 580018,
-      "Name": "旋风斧-强化",
+      "Name": "Whirl Axe - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109888,7 +109888,7 @@
     },
     {
       "Id": 830004,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -109928,7 +109928,7 @@
     },
     {
       "Id": 830009,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -109992,7 +109992,7 @@
     },
     {
       "Id": 10330000,
-      "Name": "旋风斧",
+      "Name": "Whirl Axe",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110000,7 +110000,7 @@
     },
     {
       "Id": 330000,
-      "Name": "斧头精炼度Ⅱ",
+      "Name": "Axe Proficiency II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110032,7 +110032,7 @@
     },
     {
       "Id": 330002,
-      "Name": "斧头精炼度Ⅲ",
+      "Name": "Axe Proficiency III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110136,7 +110136,7 @@
     },
     {
       "Id": 330010,
-      "Name": "手推车撞击Ⅵ",
+      "Name": "Cart Revolution VI",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110160,7 +110160,7 @@
     },
     {
       "Id": 330012,
-      "Name": "手推车撞击Ⅶ",
+      "Name": "Cart Revolution VII",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110256,7 +110256,7 @@
     },
     {
       "Id": 370000,
-      "Name": "斧头精炼度Ⅳ",
+      "Name": "Axe Proficiency IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110344,7 +110344,7 @@
     },
     {
       "Id": 370008,
-      "Name": "斧头精炼度Ⅴ",
+      "Name": "Axe Proficiency V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110528,7 +110528,7 @@
     },
     {
       "Id": 570000,
-      "Name": "幸运转换Ⅱ",
+      "Name": "Luck Switch II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110552,7 +110552,7 @@
     },
     {
       "Id": 570003,
-      "Name": "幸运转换Ⅲ",
+      "Name": "Luck Switch III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110672,7 +110672,7 @@
     },
     {
       "Id": 820004,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -110944,7 +110944,7 @@
     },
     {
       "Id": 450000,
-      "Name": "装备攻速",
+      "Name": "Attack Spd",
       "Key": "EquipASPD",
       "Value": 0.03,
       "Type": 1,
@@ -111008,7 +111008,7 @@
     },
     {
       "Id": 450004,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -111024,7 +111024,7 @@
     },
     {
       "Id": 450005,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -111280,7 +111280,7 @@
     },
     {
       "Id": 10140000,
-      "Name": "Dex转换Ⅴ",
+      "Name": "Dex Switching V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -111304,7 +111304,7 @@
     },
     {
       "Id": 280000,
-      "Name": "分裂斧-强化",
+      "Name": "Split Axe - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -111344,7 +111344,7 @@
     },
     {
       "Id": 560004,
-      "Name": "手推车增幅Ⅱ",
+      "Name": "Cart Increase II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -111456,7 +111456,7 @@
     },
     {
       "Id": 810003,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -111632,7 +111632,7 @@
     },
     {
       "Id": 320000,
-      "Name": "手推车撞击Ⅷ",
+      "Name": "Cart Revolution VIII",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -111720,7 +111720,7 @@
     },
     {
       "Id": 160003,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Proficiency - Empower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -111760,7 +111760,7 @@
     },
     {
       "Id": 320009,
-      "Name": "手推车撞击Ⅸ",
+      "Name": "Cart Revolution IX",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -111856,7 +111856,7 @@
     },
     {
       "Id": 160008,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Proficiency - Empower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -111968,7 +111968,7 @@
     },
     {
       "Id": 160013,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Proficiency - Empower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -112056,7 +112056,7 @@
     },
     {
       "Id": 360000,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -112232,7 +112232,7 @@
     },
     {
       "Id": 180006,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Proficiency - Empower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -112264,7 +112264,7 @@
     },
     {
       "Id": 180007,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Proficiency - Empower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -112296,7 +112296,7 @@
     },
     {
       "Id": 180008,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Proficiency - Empower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -112432,7 +112432,7 @@
     },
     {
       "Id": 550000,
-      "Name": "手推车增幅Ⅲ",
+      "Name": "Cart Increase III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -112616,7 +112616,7 @@
     },
     {
       "Id": 200002,
-      "Name": "手推车撞击Ⅴ",
+      "Name": "Cart Revolution V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -112656,7 +112656,7 @@
     },
     {
       "Id": 400006,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -112792,7 +112792,7 @@
     },
     {
       "Id": 50003,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Proficiency - Empower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -112928,7 +112928,7 @@
     },
     {
       "Id": 220000,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 3,
       "Type": 4,
@@ -112992,7 +112992,7 @@
     },
     {
       "Id": 220002,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -113288,7 +113288,7 @@
     },
     {
       "Id": 60000,
-      "Name": "对火属性魔物伤害",
+      "Name": "Damage to Fire monsters",
       "Key": "FireDamPer",
       "Value": 0.06,
       "Type": 5,
@@ -113336,7 +113336,7 @@
     },
     {
       "Id": 240001,
-      "Name": "物伤加成",
+      "Name": "Dmg Inc",
       "Key": "DamIncrease",
       "Value": 0.01,
       "Type": 1,
@@ -113400,7 +113400,7 @@
     },
     {
       "Id": 60001,
-      "Name": "对火属性魔物伤害",
+      "Name": "Damage to Fire monsters",
       "Key": "FireDamPer",
       "Value": 0.03,
       "Type": 5,
@@ -113480,7 +113480,7 @@
     },
     {
       "Id": 480013,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -113496,7 +113496,7 @@
     },
     {
       "Id": 60002,
-      "Name": "对火属性魔物伤害",
+      "Name": "Damage to Fire monsters",
       "Key": "FireDamPer",
       "Value": 0.03,
       "Type": 5,
@@ -113512,7 +113512,7 @@
     },
     {
       "Id": 480016,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -113576,7 +113576,7 @@
     },
     {
       "Id": 540004,
-      "Name": "旋风斧-强化",
+      "Name": "Whirl Axe - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -113696,7 +113696,7 @@
     },
     {
       "Id": 270011,
-      "Name": "Dex转换Ⅱ",
+      "Name": "Dex Switching II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -113936,7 +113936,7 @@
     },
     {
       "Id": 130003,
-      "Name": "对火属性魔物伤害",
+      "Name": "Damage to Fire monsters",
       "Key": "FireDamPer",
       "Value": 0.06,
       "Type": 5,
@@ -113976,7 +113976,7 @@
     },
     {
       "Id": 310000,
-      "Name": "Dex转换Ⅳ",
+      "Name": "Dex Switching IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -114168,7 +114168,7 @@
     },
     {
       "Id": 870004,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Proficiency - Empower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -114576,7 +114576,7 @@
     },
     {
       "Id": 530000,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Proficiency - Empower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -114640,7 +114640,7 @@
     },
     {
       "Id": 530009,
-      "Name": "旋风斧",
+      "Name": "Whirl Axe",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -114880,7 +114880,7 @@
     },
     {
       "Id": 610003,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -114984,7 +114984,7 @@
     },
     {
       "Id": 430006,
-      "Name": "幸运转换Ⅰ",
+      "Name": "Luck Switch I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -115176,7 +115176,7 @@
     },
     {
       "Id": 470000,
-      "Name": "装备攻速",
+      "Name": "Attack Spd",
       "Key": "EquipASPD",
       "Value": 0.03,
       "Type": 1,
@@ -115240,7 +115240,7 @@
     },
     {
       "Id": 470004,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -115272,7 +115272,7 @@
     },
     {
       "Id": 620005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -115320,7 +115320,7 @@
     },
     {
       "Id": 470009,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -115432,7 +115432,7 @@
     },
     {
       "Id": 470016,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -115448,7 +115448,7 @@
     },
     {
       "Id": 470017,
-      "Name": "装备攻速",
+      "Name": "Attack Spd",
       "Key": "EquipASPD",
       "Value": 0.03,
       "Type": 1,
@@ -115824,7 +115824,7 @@
     },
     {
       "Id": 780005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -115888,7 +115888,7 @@
     },
     {
       "Id": 510000,
-      "Name": "斧头精炼度Ⅰ",
+      "Name": "Axe Proficiency I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -116008,7 +116008,7 @@
     },
     {
       "Id": 910004,
-      "Name": "幸运转换",
+      "Name": "Luck Switch",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -116120,7 +116120,7 @@
     },
     {
       "Id": 890016,
-      "Name": "幸运转换",
+      "Name": "Luck Switch",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -116200,7 +116200,7 @@
     },
     {
       "Id": 890004,
-      "Name": "幸运转换",
+      "Name": "Luck Switch",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -116240,7 +116240,7 @@
     },
     {
       "Id": 150000,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Proficiency - Empower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -116296,7 +116296,7 @@
     },
     {
       "Id": 300003,
-      "Name": "分裂斧-强化",
+      "Name": "Split Axe - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -116328,7 +116328,7 @@
     },
     {
       "Id": 880003,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Proficiency - Empower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -116408,7 +116408,7 @@
     },
     {
       "Id": 300010,
-      "Name": "分裂斧-强化",
+      "Name": "Split Axe - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -116568,7 +116568,7 @@
     },
     {
       "Id": 850003,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Proficiency - Empower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -116664,7 +116664,7 @@
     },
     {
       "Id": 840009,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Proficiency - Empower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -116736,7 +116736,7 @@
     },
     {
       "Id": 550002,
-      "Name": "手推车增幅Ⅳ",
+      "Name": "Cart Increase IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -116800,7 +116800,7 @@
     },
     {
       "Id": 10060000,
-      "Name": "对火属性魔物伤害",
+      "Name": "Damage to Fire monsters",
       "Key": "FireDamPer",
       "Value": 0.03,
       "Type": 5,
@@ -116896,7 +116896,7 @@
     },
     {
       "Id": 800009,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -116928,7 +116928,7 @@
     },
     {
       "Id": 800004,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -117664,7 +117664,7 @@
     },
     {
       "Id": 190000,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -117808,7 +117808,7 @@
     },
     {
       "Id": 640005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -117912,7 +117912,7 @@
     },
     {
       "Id": 10370000,
-      "Name": "幸运转换Ⅴ",
+      "Name": "Luck Switch V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -118064,7 +118064,7 @@
     },
     {
       "Id": 600003,
-      "Name": "幸运转换Ⅳ",
+      "Name": "Luck Switch IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -118184,7 +118184,7 @@
     },
     {
       "Id": 580009,
-      "Name": "旋风斧",
+      "Name": "Whirl Axe",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -118216,7 +118216,7 @@
     },
     {
       "Id": 590000,
-      "Name": "旋风斧",
+      "Name": "Whirl Axe",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -118248,7 +118248,7 @@
     },
     {
       "Id": 590004,
-      "Name": "旋风斧-强化",
+      "Name": "Whirl Axe - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -118352,7 +118352,7 @@
     },
     {
       "Id": 590017,
-      "Name": "旋风斧-强化",
+      "Name": "Whirl Axe - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -118376,7 +118376,7 @@
     },
     {
       "Id": 210000,
-      "Name": "人形种族加伤",
+      "Name": "Dmg to Demi-Human",
       "Key": "DemiHumanDamPer",
       "Value": 0.05,
       "Type": 5,
@@ -118504,7 +118504,7 @@
     },
     {
       "Id": 210004,
-      "Name": "人形种族加伤",
+      "Name": "Dmg to Demi-Human",
       "Key": "DemiHumanDamPer",
       "Value": 0.025,
       "Type": 5,
@@ -118528,7 +118528,7 @@
     },
     {
       "Id": 420009,
-      "Name": "手推车增幅Ⅰ",
+      "Name": "Cart Increase I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -118584,7 +118584,7 @@
     },
     {
       "Id": 540001,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Proficiency - Empower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -118776,7 +118776,7 @@
     },
     {
       "Id": 360003,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 3,
       "Type": 4,
@@ -118864,7 +118864,7 @@
     },
     {
       "Id": 270000,
-      "Name": "Dex转换Ⅰ",
+      "Name": "Dex Switching I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -118880,7 +118880,7 @@
     },
     {
       "Id": 260000,
-      "Name": "Dex转换Ⅲ",
+      "Name": "Dex Switching III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -120098,7 +120098,7 @@
     },
     {
       "Id": 910005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -121778,7 +121778,7 @@
     },
     {
       "Id": 890009,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -121970,7 +121970,7 @@
     },
     {
       "Id": 360000,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -122018,7 +122018,7 @@
     },
     {
       "Id": 90001,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -122522,7 +122522,7 @@
     },
     {
       "Id": 100001,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -123194,7 +123194,7 @@
     },
     {
       "Id": 30000,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -123394,7 +123394,7 @@
     },
     {
       "Id": 480013,
-      "Name": "幸运转换",
+      "Name": "Luck Switch",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -123426,7 +123426,7 @@
     },
     {
       "Id": 480016,
-      "Name": "幸运转换",
+      "Name": "Luck Switch",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -124090,7 +124090,7 @@
     },
     {
       "Id": 870005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -126442,7 +126442,7 @@
     },
     {
       "Id": 860003,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -127978,7 +127978,7 @@
     },
     {
       "Id": 600003,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -128162,7 +128162,7 @@
     },
     {
       "Id": 590004,
-      "Name": "幸运转换",
+      "Name": "Luck Switch",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -128266,7 +128266,7 @@
     },
     {
       "Id": 590017,
-      "Name": "幸运转换",
+      "Name": "Luck Switch",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -128338,7 +128338,7 @@
     },
     {
       "Id": 840004,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -128610,7 +128610,7 @@
     },
     {
       "Id": 480003,
-      "Name": "幸运转换",
+      "Name": "Luck Switch",
       "Key": null,
       "Value": 0,
       "Type": 5,

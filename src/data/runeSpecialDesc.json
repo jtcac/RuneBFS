@@ -961,7 +961,7 @@
   },
   {
     "Id": 6002,
-    "Text": "装备手推车时的移动速度＋%s%%"
+    "Text": "When equipped with cart, Move Spd +%s%%"
   },
   {
     "Id": 6003,
@@ -973,27 +973,27 @@
   },
   {
     "Id": 6005,
-    "Text": "使手推车格子每格增加＋%s%%【手推车撞击】伤害，但【手推车撞击】SP消耗＋%s%%"
+    "Text": "Each slot of Cart increases damage of [Cart Revolution] by +%s%% but SP Cost by +%s%%"
   },
   {
     "Id": 6006,
-    "Text": "灵巧每＋%s，物理攻击＋%s"
+    "Text": "Each +%s DEX, Atk +0.2"
   },
   {
     "Id": 6007,
-    "Text": "使用【手推车撞击】时%s%%概率使周围目标武器被卸除（暂未实装），若是魔物则使其物理攻击－%s%%"
+    "Text": "[Cart Revolution] has a %s%% chance to remove weapons of nearby units (not valid yet). If those units are monster, Atk -%s%%"
   },
   {
     "Id": 6008,
-    "Text": "使装备斧头时物理攻击＋%s"
+    "Text": "When equipped with axe, Atk +%s"
   },
   {
     "Id": 6009,
-    "Text": "幸运每＋%s，物理攻击＋%s"
+    "Text": "Each +%s Luck, Atk +%s"
   },
   {
     "Id": 6010,
-    "Text": "使【斧头精炼度】提升的物理攻击力额外＋%s%%"
+    "Text": "[Axe Refining] provides Atk +%s%%"
   },
   {
     "Id": 6011,
@@ -1001,15 +1001,15 @@
   },
   {
     "Id": 6012,
-    "Text": "获得【旋风斧】：将周围一定范围内的目标吸附到自身附近，造成伤害＋%s%%,使移动速度-%s%%持续%s秒"
+    "Text": "Get the skill [Whirl Axe]. Absorbs nearby units to self, dealing +%s%% Dmg and reducing %s%% Move Spd for %s sec"
   },
   {
     "Id": 6013,
-    "Text": "【旋风斧】伤害额外＋%s%%"
+    "Text": "[Whirl Axe] Dmg +%s%%"
   },
   {
     "Id": 6014,
-    "Text": "使普通攻击时，普攻攻击力提高%s，力量带来的素质攻击力＋%s%%"
+    "Text": "When launching auto attacks, auto attack increases by %s, quality attack brought by Strength increases by %s%%"
   },
   {
     "Id": 6015,
@@ -1017,7 +1017,7 @@
   },
   {
     "Id": 6016,
-    "Text": "【分裂斧】溅射伤害＋%s%%"
+    "Text": "Splash Damage of [Split Axe] +%s%%"
   },
   {
     "Id": 6301,
