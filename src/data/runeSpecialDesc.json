@@ -1345,7 +1345,7 @@
   },
   {
     "Id": 9001,
-    "Text": "获得【双倍防具卸除】技能等级＋1，施法者在施放【卸除铠甲】时有%s%%概率可同时卸除2个部位"
+    "Text": "Skill level of [Double Armor Removal] +1. Caster has a +%s%% chance to unload 2 parts when releasing [Strip Armor]"
   },
   {
     "Id": 9002,
@@ -1361,7 +1361,7 @@
   },
   {
     "Id": 9005,
-    "Text": "使【三连矢】伤害＋%s%%"
+    "Text": "Dmg of [Triangle Shot] +%s%%"
   },
   {
     "Id": 9006,
@@ -1389,7 +1389,7 @@
   },
   {
     "Id": 9012,
-    "Text": "使隐匿下【伏击】伤害＋%s%%"
+    "Text": "Damage of [Ambush] in hiding states +%s%%"
   },
   {
     "Id": 9013,
@@ -1397,7 +1397,7 @@
   },
   {
     "Id": 9014,
-    "Text": "使【销声匿迹】技能冷却－%s%%"
+    "Text": "Skill cooldown of [Vanished] -%s%%"
   },
   {
     "Id": 9015,
@@ -1409,7 +1409,7 @@
   },
   {
     "Id": 9017,
-    "Text": "使【二刀连击】伤害＋%s%%"
+    "Text": "Damage of [Double Attack] +%s%%"
   },
   {
     "Id": 9018,
@@ -1449,31 +1449,31 @@
   },
   {
     "Id": 9401,
-    "Text": "在【嗜血渴望】效果范围内的目标移动速度－%s%%，生命百分比越低效果越明显"
+    "Text": "Move Speed of targets -%s%% within [Blood Thirst]'s area of effect. This effect grows more powerful as the target's HP percentage drops"
   },
   {
     "Id": 9402,
-    "Text": "进入黑洞的持续时间＋%s秒"
+    "Text": "Duration of target trapped in [Manhole] +%s sec"
   },
   {
     "Id": 9403,
-    "Text": "【黑洞陷阱】的冷却时间－%s秒"
+    "Text": "[Manhole] cooldown -%s secs"
   },
   {
     "Id": 9404,
-    "Text": "【魔力陷阱】流失的魔法值＋%s"
+    "Text": "[Magic Trap] SP lost +%s"
   },
   {
     "Id": 9405,
-    "Text": "【魔力陷阱】伤害＋%s%%"
+    "Text": "[Magic Trap] damage +%s%%"
   },
   {
     "Id": 9406,
-    "Text": "使用技能后移动速度＋%s%%，物伤减免和魔伤减免＋%s%%，持续4秒"
+    "Text": "Move Spd +%s%%, Dmg Reduc and Magic Reduc +%s%% for 4secs after using skill"
   },
   {
     "Id": 9407,
-    "Text": "受到【威胁恐吓】的目标物理防御降低%s%%"
+    "Text": "Def of target affected by [Threaten] -%s%%"
   },
   {
     "Id": 9408,

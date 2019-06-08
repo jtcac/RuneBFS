@@ -3542,7 +3542,7 @@
   },
   {
     "Id": 90010,
-    "RuneName": "双倍防具卸除",
+    "RuneName": "Double Armor Removal",
     "Runetip": 9001,
     "SkillTipParm": [
       10
@@ -3550,7 +3550,7 @@
   },
   {
     "Id": 90011,
-    "RuneName": "双倍防具卸除",
+    "RuneName": "Double Armor Removal",
     "Runetip": 9001,
     "SkillTipParm": [
       10
@@ -3558,7 +3558,7 @@
   },
   {
     "Id": 90012,
-    "RuneName": "双倍防具卸除",
+    "RuneName": "Double Armor Removal",
     "Runetip": 9001,
     "SkillTipParm": [
       10
@@ -3566,7 +3566,7 @@
   },
   {
     "Id": 90013,
-    "RuneName": "双倍防具卸除",
+    "RuneName": "Double Armor Removal",
     "Runetip": 9001,
     "SkillTipParm": [
       10
@@ -3574,7 +3574,7 @@
   },
   {
     "Id": 90014,
-    "RuneName": "双倍防具卸除",
+    "RuneName": "Double Armor Removal",
     "Runetip": 9001,
     "SkillTipParm": [
       10
@@ -3626,7 +3626,7 @@
   },
   {
     "Id": 90050,
-    "RuneName": "三连矢-强效",
+    "RuneName": "Triangle Shot - Empower",
     "Runetip": 9005,
     "SkillTipParm": [
       8
@@ -3682,7 +3682,7 @@
   },
   {
     "Id": 90120,
-    "RuneName": "伏击-强效",
+    "RuneName": "Ambush - Empower",
     "Runetip": 9012,
     "SkillTipParm": [
       10
@@ -3699,7 +3699,7 @@
   },
   {
     "Id": 90140,
-    "RuneName": "销声匿迹-冷却",
+    "RuneName": "Vanished - Cooldown",
     "Runetip": 9014,
     "SkillTipParm": [
       10
@@ -3723,7 +3723,7 @@
   },
   {
     "Id": 90170,
-    "RuneName": "二刀连击-强效",
+    "RuneName": "Double Attack - Empower",
     "Runetip": 9017,
     "SkillTipParm": [
       6
@@ -3804,7 +3804,7 @@
   },
   {
     "Id": 94010,
-    "RuneName": "嗜血渴望-牢笼",
+    "RuneName": "Blood Thirst - Cage",
     "Runetip": 9401,
     "SkillTipParm": [
       10
@@ -3812,7 +3812,7 @@
   },
   {
     "Id": 94020,
-    "RuneName": "黑洞陷阱-吞噬",
+    "RuneName": "Manhole - Devour",
     "Runetip": 9402,
     "SkillTipParm": [
       0.5
@@ -3820,7 +3820,7 @@
   },
   {
     "Id": 94030,
-    "RuneName": "黑洞陷阱-专精",
+    "RuneName": "Manhole - Mastery",
     "Runetip": 9403,
     "SkillTipParm": [
       2
@@ -3828,7 +3828,7 @@
   },
   {
     "Id": 94040,
-    "RuneName": "魔力陷阱-退魔",
+    "RuneName": "Magic Trap - Exorcism",
     "Runetip": 9404,
     "SkillTipParm": [
       20
@@ -3836,7 +3836,7 @@
   },
   {
     "Id": 94050,
-    "RuneName": "魔力陷阱-强化",
+    "RuneName": "Magic Trap - Enhance",
     "Runetip": 9405,
     "SkillTipParm": [
       10
@@ -3844,7 +3844,7 @@
   },
   {
     "Id": 94060,
-    "RuneName": "逐影",
+    "RuneName": "Shadow Chaser",
     "Runetip": 9406,
     "SkillTipParm": [
       8,
@@ -3853,7 +3853,7 @@
   },
   {
     "Id": 94070,
-    "RuneName": "威胁恐吓-惊吓",
+    "RuneName": "Threaten - Frighten",
     "Runetip": 9407,
     "SkillTipParm": [
       5

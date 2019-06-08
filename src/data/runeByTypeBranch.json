@@ -29840,7 +29840,7 @@
     },
     {
       "Id": 230002,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -30064,7 +30064,7 @@
     },
     {
       "Id": 230016,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -30720,7 +30720,7 @@
     },
     {
       "Id": 330002,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -34184,7 +34184,7 @@
     },
     {
       "Id": 60002,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -34664,7 +34664,7 @@
     },
     {
       "Id": 310000,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -39866,7 +39866,7 @@
     },
     {
       "Id": 460013,
-      "Name": "物理攻击%",
+      "Name": "DmgPer",
       "Key": "AtkPer",
       "Value": 0.01,
       "Type": 1,
@@ -40490,7 +40490,7 @@
     },
     {
       "Id": 830004,
-      "Name": "毒属性攻击",
+      "Name": "Poison Attack",
       "Key": "PoisoningAtk",
       "Value": 0.01,
       "Type": 5,
@@ -41610,7 +41610,7 @@
     },
     {
       "Id": 450004,
-      "Name": "物理攻击%",
+      "Name": "DmgPer",
       "Key": "AtkPer",
       "Value": 0.01,
       "Type": 1,
@@ -41626,7 +41626,7 @@
     },
     {
       "Id": 450005,
-      "Name": "物理攻击%",
+      "Name": "DmgPer",
       "Key": "AtkPer",
       "Value": 0.01,
       "Type": 1,
@@ -43258,7 +43258,7 @@
     },
     {
       "Id": 400006,
-      "Name": "物理攻击%",
+      "Name": "DmgPer",
       "Key": "AtkPer",
       "Value": 0.01,
       "Type": 1,
@@ -43394,7 +43394,7 @@
     },
     {
       "Id": 50003,
-      "Name": "物理攻击%",
+      "Name": "DmgPer",
       "Key": "AtkPer",
       "Value": 0.01,
       "Type": 1,
@@ -45914,7 +45914,7 @@
     },
     {
       "Id": 1020001,
-      "Name": "毒属性攻击",
+      "Name": "Poison Attack",
       "Key": "PoisoningAtk",
       "Value": 0.01,
       "Type": 5,
@@ -46042,7 +46042,7 @@
     },
     {
       "Id": 1010000,
-      "Name": "毒属性攻击",
+      "Name": "Poison Attack",
       "Key": "PoisoningAtk",
       "Value": 0.01,
       "Type": 5,
@@ -46426,7 +46426,7 @@
     },
     {
       "Id": 780005,
-      "Name": "毒属性攻击",
+      "Name": "Poison Attack",
       "Key": "PoisoningAtk",
       "Value": 0.01,
       "Type": 5,
@@ -47498,7 +47498,7 @@
     },
     {
       "Id": 800009,
-      "Name": "毒属性攻击",
+      "Name": "Poison Attack",
       "Key": "PoisoningAtk",
       "Value": 0.01,
       "Type": 5,
@@ -49900,7 +49900,7 @@
     },
     {
       "Id": 750000,
-      "Name": "逐影",
+      "Name": "Shadow Chaser",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -50508,7 +50508,7 @@
     },
     {
       "Id": 10330000,
-      "Name": "销声匿迹-冷却",
+      "Name": "Vanished - Cooldown",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -50524,7 +50524,7 @@
     },
     {
       "Id": 660000,
-      "Name": "黑洞陷阱-专精",
+      "Name": "Manhole - Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -51316,7 +51316,7 @@
     },
     {
       "Id": 650000,
-      "Name": "嗜血渴望-牢笼",
+      "Name": "Blood Thirst - Cage",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -51340,7 +51340,7 @@
     },
     {
       "Id": 650004,
-      "Name": "黑洞陷阱-吞噬",
+      "Name": "Manhole - Devour",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -51436,7 +51436,7 @@
     },
     {
       "Id": 650016,
-      "Name": "黑洞陷阱-吞噬",
+      "Name": "Manhole - Devour",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -51460,7 +51460,7 @@
     },
     {
       "Id": 450000,
-      "Name": "双倍防具卸除",
+      "Name": "Double Armor Removal",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -51468,7 +51468,7 @@
     },
     {
       "Id": 900000,
-      "Name": "威胁恐吓-惊吓",
+      "Name": "Threaten - Frighten",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -51628,7 +51628,7 @@
     },
     {
       "Id": 730000,
-      "Name": "逐影",
+      "Name": "Shadow Chaser",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -51660,7 +51660,7 @@
     },
     {
       "Id": 730005,
-      "Name": "魔力陷阱-强化",
+      "Name": "Magic Trap - Enhance",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -51796,7 +51796,7 @@
     },
     {
       "Id": 10140000,
-      "Name": "物理攻击%",
+      "Name": "DmgPer",
       "Key": "AtkPer",
       "Value": 0.01,
       "Type": 1,
@@ -51804,7 +51804,7 @@
     },
     {
       "Id": 70000,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -52156,7 +52156,7 @@
     },
     {
       "Id": 640000,
-      "Name": "嗜血渴望-牢笼",
+      "Name": "Blood Thirst - Cage",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -52172,7 +52172,7 @@
     },
     {
       "Id": 160001,
-      "Name": "三连矢-强效",
+      "Name": "Triangle Shot - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -52556,7 +52556,7 @@
     },
     {
       "Id": 90000,
-      "Name": "二刀连击-强效",
+      "Name": "Double Attack - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -52564,7 +52564,7 @@
     },
     {
       "Id": 180000,
-      "Name": "三连矢-强效",
+      "Name": "Triangle Shot - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -52572,7 +52572,7 @@
     },
     {
       "Id": 360000,
-      "Name": "物理攻击%",
+      "Name": "DmgPer",
       "Key": "AtkPer",
       "Value": 0.01,
       "Type": 1,
@@ -52580,7 +52580,7 @@
     },
     {
       "Id": 720000,
-      "Name": "逐影",
+      "Name": "Shadow Chaser",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -52612,7 +52612,7 @@
     },
     {
       "Id": 720004,
-      "Name": "魔力陷阱-强化",
+      "Name": "Magic Trap - Enhance",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -52620,7 +52620,7 @@
     },
     {
       "Id": 90001,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -52708,7 +52708,7 @@
     },
     {
       "Id": 720016,
-      "Name": "魔力陷阱-强化",
+      "Name": "Magic Trap - Enhance",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -52948,7 +52948,7 @@
     },
     {
       "Id": 550000,
-      "Name": "伏击-强效",
+      "Name": "Ambush - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -53060,7 +53060,7 @@
     },
     {
       "Id": 100000,
-      "Name": "二刀连击-强效",
+      "Name": "Double Attack - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -53124,7 +53124,7 @@
     },
     {
       "Id": 100001,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -53140,7 +53140,7 @@
     },
     {
       "Id": 400004,
-      "Name": "双倍防具卸除",
+      "Name": "Double Armor Removal",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -53380,7 +53380,7 @@
     },
     {
       "Id": 630003,
-      "Name": "黑洞陷阱-吞噬",
+      "Name": "Manhole - Devour",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -53692,7 +53692,7 @@
     },
     {
       "Id": 710000,
-      "Name": "黑洞陷阱-专精",
+      "Name": "Manhole - Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -53724,7 +53724,7 @@
     },
     {
       "Id": 710004,
-      "Name": "毒属性攻击",
+      "Name": "Poison Attack",
       "Key": "PoisoningAtk",
       "Value": 0.01,
       "Type": 5,
@@ -53732,7 +53732,7 @@
     },
     {
       "Id": 710005,
-      "Name": "魔力陷阱-退魔",
+      "Name": "Magic Trap - Exorcism",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -53796,7 +53796,7 @@
     },
     {
       "Id": 30000,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -53852,7 +53852,7 @@
     },
     {
       "Id": 240001,
-      "Name": "双倍防具卸除",
+      "Name": "Double Armor Removal",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -54020,7 +54020,7 @@
     },
     {
       "Id": 120004,
-      "Name": "三连矢-强效",
+      "Name": "Triangle Shot - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -54220,7 +54220,7 @@
     },
     {
       "Id": 10050000,
-      "Name": "物理攻击%",
+      "Name": "DmgPer",
       "Key": "AtkPer",
       "Value": 0.01,
       "Type": 1,
@@ -54356,7 +54356,7 @@
     },
     {
       "Id": 30003,
-      "Name": "二刀连击-强效",
+      "Name": "Double Attack - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -54500,7 +54500,7 @@
     },
     {
       "Id": 620000,
-      "Name": "嗜血渴望-牢笼",
+      "Name": "Blood Thirst - Cage",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -54532,7 +54532,7 @@
     },
     {
       "Id": 620004,
-      "Name": "黑洞陷阱-吞噬",
+      "Name": "Manhole - Devour",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -54660,7 +54660,7 @@
     },
     {
       "Id": 870000,
-      "Name": "威胁恐吓-惊吓",
+      "Name": "Threaten - Frighten",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -54836,7 +54836,7 @@
     },
     {
       "Id": 700000,
-      "Name": "黑洞陷阱-专精",
+      "Name": "Manhole - Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -54868,7 +54868,7 @@
     },
     {
       "Id": 700004,
-      "Name": "魔力陷阱-退魔",
+      "Name": "Magic Trap - Exorcism",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -55156,7 +55156,7 @@
     },
     {
       "Id": 530009,
-      "Name": "销声匿迹-冷却",
+      "Name": "Vanished - Cooldown",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -55188,7 +55188,7 @@
     },
     {
       "Id": 390000,
-      "Name": "双倍防具卸除",
+      "Name": "Double Armor Removal",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -55300,7 +55300,7 @@
     },
     {
       "Id": 390008,
-      "Name": "双倍防具卸除",
+      "Name": "Double Armor Removal",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -55532,7 +55532,7 @@
     },
     {
       "Id": 690000,
-      "Name": "黑洞陷阱-专精",
+      "Name": "Manhole - Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -55564,7 +55564,7 @@
     },
     {
       "Id": 690004,
-      "Name": "毒属性攻击",
+      "Name": "Poison Attack",
       "Key": "PoisoningAtk",
       "Value": 0.01,
       "Type": 5,
@@ -55604,7 +55604,7 @@
     },
     {
       "Id": 690009,
-      "Name": "魔力陷阱-退魔",
+      "Name": "Magic Trap - Exorcism",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -55652,7 +55652,7 @@
     },
     {
       "Id": 690016,
-      "Name": "毒属性攻击",
+      "Name": "Poison Attack",
       "Key": "PoisoningAtk",
       "Value": 0.01,
       "Type": 5,
@@ -55812,7 +55812,7 @@
     },
     {
       "Id": 10400000,
-      "Name": "黑洞陷阱-专精",
+      "Name": "Manhole - Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -55828,7 +55828,7 @@
     },
     {
       "Id": 1020001,
-      "Name": "毒属性攻击",
+      "Name": "Poison Attack",
       "Key": "PoisoningAtk",
       "Value": 0.01,
       "Type": 5,
@@ -55956,7 +55956,7 @@
     },
     {
       "Id": 1010000,
-      "Name": "毒属性攻击",
+      "Name": "Poison Attack",
       "Key": "PoisoningAtk",
       "Value": 0.01,
       "Type": 5,
@@ -56524,7 +56524,7 @@
     },
     {
       "Id": 910004,
-      "Name": "销声匿迹-冷却",
+      "Name": "Vanished - Cooldown",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -56540,7 +56540,7 @@
     },
     {
       "Id": 910000,
-      "Name": "威胁恐吓-惊吓",
+      "Name": "Threaten - Frighten",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -56636,7 +56636,7 @@
     },
     {
       "Id": 890016,
-      "Name": "销声匿迹-冷却",
+      "Name": "Vanished - Cooldown",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -56716,7 +56716,7 @@
     },
     {
       "Id": 890004,
-      "Name": "销声匿迹-冷却",
+      "Name": "Vanished - Cooldown",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -56732,7 +56732,7 @@
     },
     {
       "Id": 890000,
-      "Name": "威胁恐吓-惊吓",
+      "Name": "Threaten - Frighten",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -57316,7 +57316,7 @@
     },
     {
       "Id": 10060000,
-      "Name": "物理攻击%",
+      "Name": "DmgPer",
       "Key": "AtkPer",
       "Value": 0.01,
       "Type": 1,
@@ -58052,7 +58052,7 @@
     },
     {
       "Id": 700005,
-      "Name": "毒属性攻击",
+      "Name": "Poison Attack",
       "Key": "PoisoningAtk",
       "Value": 0.01,
       "Type": 5,
@@ -58092,7 +58092,7 @@
     },
     {
       "Id": 680003,
-      "Name": "魔力陷阱-退魔",
+      "Name": "Magic Trap - Exorcism",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -58140,7 +58140,7 @@
     },
     {
       "Id": 10160000,
-      "Name": "销声匿迹-冷却",
+      "Name": "Vanished - Cooldown",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -58180,7 +58180,7 @@
     },
     {
       "Id": 190000,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -58196,7 +58196,7 @@
     },
     {
       "Id": 760000,
-      "Name": "逐影",
+      "Name": "Shadow Chaser",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -58332,7 +58332,7 @@
     },
     {
       "Id": 640004,
-      "Name": "黑洞陷阱-吞噬",
+      "Name": "Manhole - Devour",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -58900,7 +58900,7 @@
     },
     {
       "Id": 420000,
-      "Name": "伏击-强效",
+      "Name": "Ambush - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -58908,7 +58908,7 @@
     },
     {
       "Id": 840000,
-      "Name": "威胁恐吓-惊吓",
+      "Name": "Threaten - Frighten",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -58932,7 +58932,7 @@
     },
     {
       "Id": 420002,
-      "Name": "物理攻击%",
+      "Name": "DmgPer",
       "Key": "AtkPer",
       "Value": 0.01,
       "Type": 1,
@@ -59292,7 +59292,7 @@
     },
     {
       "Id": 360003,
-      "Name": "伏击-强效",
+      "Name": "Ambush - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -59428,7 +59428,7 @@
     },
     {
       "Id": 180001,
-      "Name": "三连矢-强效",
+      "Name": "Triangle Shot - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -59436,7 +59436,7 @@
     },
     {
       "Id": 160015,
-      "Name": "三连矢-强效",
+      "Name": "Triangle Shot - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -59468,7 +59468,7 @@
     },
     {
       "Id": 670003,
-      "Name": "魔力陷阱-退魔",
+      "Name": "Magic Trap - Exorcism",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -100430,7 +100430,7 @@
     },
     {
       "Id": 370008,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -103782,7 +103782,7 @@
     },
     {
       "Id": 270011,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -106886,7 +106886,7 @@
     },
     {
       "Id": 10060000,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -107750,7 +107750,7 @@
     },
     {
       "Id": 190000,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -108966,7 +108966,7 @@
     },
     {
       "Id": 260000,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -110680,7 +110680,7 @@
     },
     {
       "Id": 410003,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 3,
       "Type": 4,
@@ -110712,7 +110712,7 @@
     },
     {
       "Id": 410005,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -112952,7 +112952,7 @@
     },
     {
       "Id": 440001,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 3,
       "Type": 4,
@@ -114544,7 +114544,7 @@
     },
     {
       "Id": 10250000,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -118712,7 +118712,7 @@
     },
     {
       "Id": 440007,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
