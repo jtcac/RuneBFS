@@ -41842,7 +41842,7 @@
     },
     {
       "Id": 980004,
-      "Name": "隐匿强化-延时",
+      "Name": "Enhanced Hiding - Delay",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -43922,7 +43922,7 @@
     },
     {
       "Id": 960000,
-      "Name": "隐匿强化-延时",
+      "Name": "Enhanced Hiding - Delay",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49604,7 +49604,7 @@
     },
     {
       "Id": 230000,
-      "Name": "潜击-强效",
+      "Name": "Raid - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49612,7 +49612,7 @@
     },
     {
       "Id": 460000,
-      "Name": "擒拿-防护",
+      "Name": "Close Confine - Defense",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49668,7 +49668,7 @@
     },
     {
       "Id": 230002,
-      "Name": "潜击-易伤",
+      "Name": "Raid - Vulnerable",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49724,7 +49724,7 @@
     },
     {
       "Id": 460008,
-      "Name": "擒拿-防护",
+      "Name": "Close Confine - Defense",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49764,7 +49764,7 @@
     },
     {
       "Id": 230006,
-      "Name": "潜击-易伤",
+      "Name": "Raid - Vulnerable",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49892,7 +49892,7 @@
     },
     {
       "Id": 230016,
-      "Name": "潜击-易伤",
+      "Name": "Raid - Vulnerable",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -50548,7 +50548,7 @@
     },
     {
       "Id": 330002,
-      "Name": "定身追击",
+      "Name": "Snare Pursuit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -50772,7 +50772,7 @@
     },
     {
       "Id": 370000,
-      "Name": "背刺-强效",
+      "Name": "Back Stab - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -50860,7 +50860,7 @@
     },
     {
       "Id": 370008,
-      "Name": "背刺-精通",
+      "Name": "Back Stab - Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -51044,7 +51044,7 @@
     },
     {
       "Id": 570000,
-      "Name": "背刺-强效",
+      "Name": "Back Stab - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -51196,7 +51196,7 @@
     },
     {
       "Id": 410003,
-      "Name": "背刺-强效",
+      "Name": "Back Stab - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -51228,7 +51228,7 @@
     },
     {
       "Id": 410005,
-      "Name": "背刺-精通",
+      "Name": "Back Stab - Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -51780,7 +51780,7 @@
     },
     {
       "Id": 490004,
-      "Name": "短剑修炼",
+      "Name": "Sword Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -52236,7 +52236,7 @@
     },
     {
       "Id": 160003,
-      "Name": "定身追击",
+      "Name": "Snare Pursuit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -52428,7 +52428,7 @@
     },
     {
       "Id": 80005,
-      "Name": "短剑修炼",
+      "Name": "Sword Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -52748,7 +52748,7 @@
     },
     {
       "Id": 180006,
-      "Name": "隐匿强化-延时",
+      "Name": "Enhanced Hiding - Delay",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -52780,7 +52780,7 @@
     },
     {
       "Id": 180007,
-      "Name": "定身追击",
+      "Name": "Snare Pursuit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -52812,7 +52812,7 @@
     },
     {
       "Id": 180008,
-      "Name": "定身追击",
+      "Name": "Snare Pursuit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -53132,7 +53132,7 @@
     },
     {
       "Id": 200002,
-      "Name": "远程物理伤害",
+      "Name": "Ranged Physical Damage",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -53172,7 +53172,7 @@
     },
     {
       "Id": 400006,
-      "Name": "隐匿强化-延时",
+      "Name": "Enhanced Hiding - Delay",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -53308,7 +53308,7 @@
     },
     {
       "Id": 50003,
-      "Name": "定身追击",
+      "Name": "Snare Pursuit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -53468,7 +53468,7 @@
     },
     {
       "Id": 440001,
-      "Name": "背刺-强效",
+      "Name": "Back Stab - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -53804,7 +53804,7 @@
     },
     {
       "Id": 60000,
-      "Name": "潜击-强效",
+      "Name": "Raid - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -53828,7 +53828,7 @@
     },
     {
       "Id": 480000,
-      "Name": "擒拿-防护",
+      "Name": "Close Confine - Defense",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -53916,7 +53916,7 @@
     },
     {
       "Id": 60001,
-      "Name": "潜击-易伤",
+      "Name": "Raid - Vulnerable",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -54212,7 +54212,7 @@
     },
     {
       "Id": 270011,
-      "Name": "远程物理伤害",
+      "Name": "Ranged Physical Damage",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -54348,7 +54348,7 @@
     },
     {
       "Id": 520001,
-      "Name": "销声匿迹-精通",
+      "Name": "Vanished - Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -54452,7 +54452,7 @@
     },
     {
       "Id": 130003,
-      "Name": "潜击-强效",
+      "Name": "Raid - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -54668,7 +54668,7 @@
     },
     {
       "Id": 130009,
-      "Name": "潜击-易伤",
+      "Name": "Raid - Vulnerable",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -54892,7 +54892,7 @@
     },
     {
       "Id": 350004,
-      "Name": "短剑修炼",
+      "Name": "Sword Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -55092,7 +55092,7 @@
     },
     {
       "Id": 530000,
-      "Name": "销声匿迹-精通",
+      "Name": "Vanished - Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -55692,7 +55692,7 @@
     },
     {
       "Id": 470000,
-      "Name": "擒拿-防护",
+      "Name": "Close Confine - Defense",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -55964,7 +55964,7 @@
     },
     {
       "Id": 470017,
-      "Name": "擒拿-防护",
+      "Name": "Close Confine - Defense",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -56404,7 +56404,7 @@
     },
     {
       "Id": 510000,
-      "Name": "背刺-强效",
+      "Name": "Back Stab - Empower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -57532,7 +57532,7 @@
     },
     {
       "Id": 170002,
-      "Name": "【流氓天堂】",
+      "Name": "[Gangster's Paradise]",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -57556,7 +57556,7 @@
     },
     {
       "Id": 340005,
-      "Name": "短剑修炼",
+      "Name": "Sword Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -57692,7 +57692,7 @@
     },
     {
       "Id": 170007,
-      "Name": "【流氓天堂】",
+      "Name": "[Gangster's Paradise]",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -57916,7 +57916,7 @@
     },
     {
       "Id": 170014,
-      "Name": "远程物理伤害",
+      "Name": "Ranged Physical Damage",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -57948,7 +57948,7 @@
     },
     {
       "Id": 170015,
-      "Name": "远程物理伤害",
+      "Name": "Ranged Physical Damage",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -59020,7 +59020,7 @@
     },
     {
       "Id": 210004,
-      "Name": "短剑修炼",
+      "Name": "Sword Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -59380,7 +59380,7 @@
     },
     {
       "Id": 270000,
-      "Name": "远程物理伤害",
+      "Name": "Ranged Physical Damage",
       "Key": null,
       "Value": 0,
       "Type": 5,

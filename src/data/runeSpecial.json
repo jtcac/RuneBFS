@@ -3582,7 +3582,7 @@
   },
   {
     "Id": 90020,
-    "RuneName": "【流氓天堂】",
+    "RuneName": "Gangster's Paradise",
     "Runetip": 9002,
     "SkillTipParm": [
       9
@@ -3590,7 +3590,7 @@
   },
   {
     "Id": 90021,
-    "RuneName": "【流氓天堂】",
+    "RuneName": "Gangster's Paradise",
     "Runetip": 9002,
     "SkillTipParm": [
       9
@@ -3634,7 +3634,7 @@
   },
   {
     "Id": 90060,
-    "RuneName": "潜击-强效",
+    "RuneName": "Raid - Empower",
     "Runetip": 9006,
     "SkillTipParm": [
       20
@@ -3642,7 +3642,7 @@
   },
   {
     "Id": 90070,
-    "RuneName": "潜击-易伤",
+    "RuneName": "Raid - Vulnerable",
     "Runetip": 9007,
     "SkillTipParm": [
       3
@@ -3650,7 +3650,7 @@
   },
   {
     "Id": 90080,
-    "RuneName": "背刺-强效",
+    "RuneName": "Back Stab - Empower",
     "Runetip": 9008,
     "SkillTipParm": [
       8
@@ -3658,7 +3658,7 @@
   },
   {
     "Id": 90090,
-    "RuneName": "背刺-精通",
+    "RuneName": "Back Stab - Proficient",
     "Runetip": 9009,
     "SkillTipParm": [
       0.25
@@ -3690,7 +3690,7 @@
   },
   {
     "Id": 90130,
-    "RuneName": "擒拿-防护",
+    "RuneName": "Close Confine - Defense",
     "Runetip": 9013,
     "SkillTipParm": [
       2,
@@ -3707,7 +3707,7 @@
   },
   {
     "Id": 90150,
-    "RuneName": "销声匿迹-精通",
+    "RuneName": "Vanished - Proficient",
     "Runetip": 9015,
     "SkillTipParm": [
       0.25
@@ -3715,7 +3715,7 @@
   },
   {
     "Id": 90160,
-    "RuneName": "隐匿强化-延时",
+    "RuneName": "Enhanced Hiding - Delay",
     "Runetip": 9016,
     "SkillTipParm": [
       1
@@ -3731,7 +3731,7 @@
   },
   {
     "Id": 90180,
-    "RuneName": "短剑修炼",
+    "RuneName": "Sword Mastery",
     "Runetip": 9018,
     "SkillTipParm": [
       12
@@ -3747,7 +3747,7 @@
   },
   {
     "Id": 90200,
-    "RuneName": "定身追击",
+    "RuneName": "Snare Pursuit",
     "Runetip": 9020,
     "SkillTipParm": [
       3
@@ -3763,7 +3763,7 @@
   },
   {
     "Id": 90220,
-    "RuneName": "远程物理伤害",
+    "RuneName": "Ranged Physical Damage",
     "Runetip": 9022,
     "SkillTipParm": [
       1

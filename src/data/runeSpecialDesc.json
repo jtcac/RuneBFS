@@ -1349,7 +1349,7 @@
   },
   {
     "Id": 9002,
-    "Text": "获得【流氓天堂】技能等级＋1，使用后施法者自动坐下，使其%s米范围内小队全员不会被除BOSS级以外的魔物主动攻击，持续300秒"
+    "Text": "Skill level of [Gangster's Paradise]+1; after use, the caster will sit down. Teammates in a %s-meter range will avoid being auto-target by all monsters except the BOSS; the effect lasts 300secs"
   },
   {
     "Id": 9003,
@@ -1365,19 +1365,19 @@
   },
   {
     "Id": 9006,
-    "Text": "使【潜击】伤害＋%s%%"
+    "Text": "Damage of [Raid] +%s%%"
   },
   {
     "Id": 9007,
-    "Text": "使目标受到【潜击】后的承受伤害增加效果提升%s%%"
+    "Text": "Target's damage bearing after attacked by [Raid] +%s%%"
   },
   {
     "Id": 9008,
-    "Text": "使【背刺】伤害＋%s%%"
+    "Text": "Damage of [Back Stab] +%s%%"
   },
   {
     "Id": 9009,
-    "Text": "使【背刺】技能延迟－%s秒"
+    "Text": "Cast Delay of [Back Stab] -%s secs"
   },
   {
     "Id": 9010,
@@ -1393,7 +1393,7 @@
   },
   {
     "Id": 9013,
-    "Text": "使【擒拿】施放后，施法者获得可抵挡%s次的物理伤害护盾，抵挡上限为自身%s%%的最大生命，持续10秒"
+    "Text": "After release of [Close Confine], caster receives a Dmg Shield that can block damage %s times, the upper limit equals to %s%% of Max HP; this effect lasts 10secs."
   },
   {
     "Id": 9014,
@@ -1401,11 +1401,11 @@
   },
   {
     "Id": 9015,
-    "Text": "使【销声匿迹】技能延迟－%s秒"
+    "Text": "Cast Delay of [Vanished] -%s secs"
   },
   {
     "Id": 9016,
-    "Text": "使解除隐匿状态后的强化隐匿时间＋%s秒"
+    "Text": "Enhanced hiding time after hiding state removed +%s sec"
   },
   {
     "Id": 9017,
@@ -1413,7 +1413,7 @@
   },
   {
     "Id": 9018,
-    "Text": "使装备短剑类武器时，物理攻击＋%s"
+    "Text": "When daggers are equipped, Atk +%s"
   },
   {
     "Id": 9019,
@@ -1421,7 +1421,7 @@
   },
   {
     "Id": 9020,
-    "Text": "对定身状态下和被擒拿的目标造成的伤害＋%s%%"
+    "Text": "Damage to targets of Slow Atk and Close Confine +%s%%"
   },
   {
     "Id": 9021,
@@ -1429,7 +1429,7 @@
   },
   {
     "Id": 9022,
-    "Text": "远程物理伤害＋%s%%"
+    "Text": "Ranged Physical Damage +%s%%"
   },
   {
     "Id": 9301,
